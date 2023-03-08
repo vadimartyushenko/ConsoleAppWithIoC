@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ConsoleAppWithIoC": {
+      "commandName": "Project",
+      "commandLineArgs": "--reps"
+    }
+  }
+}
